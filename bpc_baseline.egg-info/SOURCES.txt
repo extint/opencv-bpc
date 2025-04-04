@@ -1,0 +1,11 @@
+README.md
+package.xml
+setup.cfg
+setup.py
+bpc/__init__.py
+bpc_baseline.egg-info/PKG-INFO
+bpc_baseline.egg-info/SOURCES.txt
+bpc_baseline.egg-info/dependency_links.txt
+bpc_baseline.egg-info/requires.txt
+bpc_baseline.egg-info/top_level.txt
+resource/bpc_baseline
